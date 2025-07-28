@@ -1,0 +1,9 @@
+django
+faiss-cpu
+numpy
+scikit-learn
+nltk
+langchain
+openai
+pandas
+matplotlib
